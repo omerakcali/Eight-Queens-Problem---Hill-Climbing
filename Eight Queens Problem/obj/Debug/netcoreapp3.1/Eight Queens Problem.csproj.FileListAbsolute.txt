@@ -1,0 +1,13 @@
+C:\Users\omera\source\repos\Eight Queens Problem\Eight Queens Problem\bin\Debug\netcoreapp3.1\Eight Queens Problem.exe
+C:\Users\omera\source\repos\Eight Queens Problem\Eight Queens Problem\bin\Debug\netcoreapp3.1\Eight Queens Problem.deps.json
+C:\Users\omera\source\repos\Eight Queens Problem\Eight Queens Problem\bin\Debug\netcoreapp3.1\Eight Queens Problem.runtimeconfig.json
+C:\Users\omera\source\repos\Eight Queens Problem\Eight Queens Problem\bin\Debug\netcoreapp3.1\Eight Queens Problem.runtimeconfig.dev.json
+C:\Users\omera\source\repos\Eight Queens Problem\Eight Queens Problem\bin\Debug\netcoreapp3.1\Eight Queens Problem.dll
+C:\Users\omera\source\repos\Eight Queens Problem\Eight Queens Problem\bin\Debug\netcoreapp3.1\Eight Queens Problem.pdb
+C:\Users\omera\source\repos\Eight Queens Problem\Eight Queens Problem\obj\Debug\netcoreapp3.1\Eight Queens Problem.csprojAssemblyReference.cache
+C:\Users\omera\source\repos\Eight Queens Problem\Eight Queens Problem\obj\Debug\netcoreapp3.1\Eight Queens Problem.AssemblyInfoInputs.cache
+C:\Users\omera\source\repos\Eight Queens Problem\Eight Queens Problem\obj\Debug\netcoreapp3.1\Eight Queens Problem.AssemblyInfo.cs
+C:\Users\omera\source\repos\Eight Queens Problem\Eight Queens Problem\obj\Debug\netcoreapp3.1\Eight Queens Problem.csproj.CoreCompileInputs.cache
+C:\Users\omera\source\repos\Eight Queens Problem\Eight Queens Problem\obj\Debug\netcoreapp3.1\Eight Queens Problem.dll
+C:\Users\omera\source\repos\Eight Queens Problem\Eight Queens Problem\obj\Debug\netcoreapp3.1\Eight Queens Problem.pdb
+C:\Users\omera\source\repos\Eight Queens Problem\Eight Queens Problem\obj\Debug\netcoreapp3.1\Eight Queens Problem.genruntimeconfig.cache

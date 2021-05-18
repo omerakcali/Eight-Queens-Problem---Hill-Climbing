@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\omera\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\omera\\.nuget\\packages"
+    ]
+  }
+}
